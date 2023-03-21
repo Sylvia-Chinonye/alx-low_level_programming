@@ -4,7 +4,7 @@
  *
  * Return: Always 0 (Success)
  */
-int main()
+int main(void)
 {
 
 
@@ -14,5 +14,5 @@ int main()
 	printf("Size of a long long int is: %d byte(s)\n", sizeof(long long int));
 	printf("Size of a float is %d byte(s)\n", sizeof(float));
 
-	return(0);
+	return (0);
 }
