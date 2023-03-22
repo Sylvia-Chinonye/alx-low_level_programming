@@ -10,7 +10,6 @@
  */
 int print_sign(int c)
 {
-	int c;
 	if (c > 0)
 	{
 		_putchar(43);
