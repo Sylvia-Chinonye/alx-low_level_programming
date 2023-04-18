@@ -5,7 +5,7 @@
  *
  * Return: always 0
  */
-int main()
+int main(void)
 {
 	printf("Filename: %s\n", _FILE_);
 	return (0);
